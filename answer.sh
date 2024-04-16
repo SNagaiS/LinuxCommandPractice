@@ -7,10 +7,10 @@
 $ cd
 
 # 3. カレントディレクトリから`~/geekationWorkspace`ディレクトリまで移動してください。(すでにオリエンテーションで作成済み)
-$ cd ./~~~~geekationWorkspace
+$ cd ./shugo/geekationWorkspace
 
 # 4. `LinuxCommandPractice`というディレクトリを作成して、`LinuxCommandPractice`に移動してください。
-$ mkdir LinuxCommandPractice
+$ mkdir LinuxCommandPractice && cd LinuxCommandPractice
 
 # 5. カレントディレクトリのパスを表示してください。
 $ pwd
